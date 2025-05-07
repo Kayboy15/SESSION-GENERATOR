@@ -1,4 +1,4 @@
-# Wasi-Session-Generator
+# KAYBOY-Session-Generator
 - Kindly star my repo
 - Fork and edit as you wish
 - Deploy to your favourite hosting server eg Heroku or Render or self hosting
@@ -8,19 +8,19 @@
 <br/>QR- WEB - PAIR CODE FOR BOT WITH WHISKEYSOCKETS/BAILEYS
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
 <p align="center">
-   <a href="https://github.com/Itxxwasi">
-    <img src="https://telegra.ph/file/da95ed969f943e4d61ca8.jpg" width="500">
+   <a href="https://github.com/Kayboy15">
+    <img src="https://files.catbox.moe/eygyy7.jpg" width="500">
      
 </a>
  <p align="center"><img src="https://profile-counter.glitch.me/{Itxxwasi}/count.svg" alt="xcelsama:: Visitor's Count" /></p>
 
 
 
-[`ℹ️Contact Owner`](https://wa.me/923192173398)
+[`ℹ️Contact Owner`](https://wa.me/263789745277)
 
 FORK THE REPOSITORY (Repo) 
     <br>
-<a href="https://github.com/Itxxwasi/SESSION-GENERATOR/fork"><img title="WEB" src="https://img.shields.io/badge/FORK Wasi-QR?color=black&style=for-the-badge&logo=stackshare"></a>
+<a href="https://github.com/Kayboy15/SESSION-GENERATOR/fork"><img title="WEB" src="https://img.shields.io/badge/FORK Wasi-QR?color=black&style=for-the-badge&logo=stackshare"></a>
 
 Now Deploy
     <br>
